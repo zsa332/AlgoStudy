@@ -1,5 +1,3 @@
-package org.week1.day1.test;
-
 import java.util.Scanner;
 
 public class Main {
